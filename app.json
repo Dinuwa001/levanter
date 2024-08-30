@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "30_8_8d21_93d2_15a5"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
